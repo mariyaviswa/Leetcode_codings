@@ -3,7 +3,8 @@
 In this repository, you can see my various coding solutions on various platforms. In each solution, I put the question or problem statement to easily recognize the problem.
 <br>
 <br>
-<b>platforms</b>
+  
+## platforms
 
 1. Leetcode
 2. Hacker Rank
